@@ -1,1 +1,1 @@
-![https://aerith.lol/a.png]
+![astral](https://aerith.lol/a.png)
