@@ -1,1 +1,1 @@
-![astral](https://aerith.lol/a.png)
+<img src="https://aerith.lol/a.png" alt="astral" width="200">
