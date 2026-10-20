@@ -1,1 +1,1 @@
-<img src="https://aerith.lol/asl.png" alt="astral" width="80">
+<img src="https://aerith.lol/asl.png" alt="astral" width="200">
